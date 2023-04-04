@@ -1,1 +1,2 @@
 Minha primeira linha de arquivo
+Minha segunda linha de arquivo
